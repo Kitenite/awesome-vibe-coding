@@ -444,6 +444,7 @@ Run many coding agents in parallel and keep them coordinated.
 | [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) | Free | Agent orchestration | Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity through plan-based lifecycle with verification gates and self-improving memory. |
 | [vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Free | Agent orchestration | Kanban-style control plane for coordinating AI coding agents. Community-maintained. |
 | [YYLO](https://github.com/yylo-dev/yylo) | Free | Parallel worktrees | Command-line orchestrator for coding agents and repeatable workflows: creates a dedicated branch/worktree per task with typed task, validation, merge, and release-readiness boundaries, and a merge queue that owns risk-based review. |
+| [Paradev](https://github.com/ParadevAI/Paradev) | Free tier | Parallel worktrees | Desktop app (formerly Superset) that runs Claude Code, Codex, OpenCode, and other CLI agents side by side, each task in its own Git worktree, with diff review, pull requests, and an in-app browser preview next to the terminals. |
 
 ---
 
